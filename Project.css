@@ -435,6 +435,7 @@ footer.page-footer .footer-copyright {
     /* width: 100%; */
     margin-left: -12px;
     }
+
 }
 
 @media only screen and (min-width: 990px) {
@@ -452,8 +453,15 @@ footer.page-footer .footer-copyright {
 
 
 
+@media only screen and (max-width: 400px) {
 
 
+    .headline{
+        text-align: center;
+        font-size: 10px;
+
+    }
+}
 
 
 
